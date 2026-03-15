@@ -2,12 +2,14 @@
 ---
 @import "{{ site.theme }}";
 
+html,
 body {
   background-image: url("/images/background.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-color: transparent;
 }
 
 .wrapper,
@@ -15,4 +17,5 @@ section,
 header,
 footer {
   background: transparent;
+  box-shadow: none;
 }

@@ -4,7 +4,7 @@
 
 ## Projects:
 
-### [1. Antenna Tracker:](/wiki/antenna_tracker.md)
+### [1. Antenna Tracker:](/wiki/antennaTracker/antenna_tracker.md)
 <img src="images/antenna_tracker.png?raw=true"/>
 
 ---

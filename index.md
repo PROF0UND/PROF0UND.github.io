@@ -1,11 +1,11 @@
-## Portfolio
+## Shrikant's Portfolio!
 
 ---
 
-### Category Name 1 
+## Projects: 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [1. Antenna Tracker:](/wiki/antenna_tracker.md)
+<img src="images/AntennaTracker.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

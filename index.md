@@ -19,8 +19,8 @@
 
 ---
 
-### [4. Earable Biomedical Sensing System:](/wiki/earable_sensing.md)
-<img src="images/earable_sensing.png?raw=true"/>
+### [4. Obsidian to GitHub Documet Primer Plugin:](https://github.com/PROF0UND/Obsidian_To_GitHub)
+<img src="images/obs_to_github.png?raw=true"/>
 
 ---
 

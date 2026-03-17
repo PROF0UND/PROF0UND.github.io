@@ -14,6 +14,7 @@ The antenna tracker uses the Ardupilot Antenna Tracker firmware and the current 
 5. Pan and Tilt system ([3D print here](https://www.thingiverse.com/thing:3458238))
 6. Sik Telemetry Radio ([Holybro](https://docs.px4.io/main/en/telemetry/holybro_sik_radio))
 7. A Yagi Antenna that matches the Telemetry radio's frequency ([AliExpress Link](https://www.aliexpress.us/item/3256809928576038.html?src=google&pdp_npi=4%40dis!USD!13.14!13.14!!!!!%40!12000052677429084!ppc!!!&src=google&albch=shopping&acnt=708-803-3821&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en3256809928576038&ds_e_product_merchant_id=661153954&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=19678427463&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=19686402437&gbraid=0AAAAAD6I-hHvzbZVfD1T8fDB8FsLnhX54&gclid=CjwKCAiAj8LLBhAkEiwAJjbY78DhKPwMYbgFTYVShnfIDAbkG6Wf3i8Aii-M-HvHo7GFelJMNBYSuhoCcTkQAvD_BwE&gatewayAdapt=glo2usa))
+
 ---
 ## Hardware setup:
 
